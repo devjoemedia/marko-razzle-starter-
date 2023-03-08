@@ -11,6 +11,7 @@
   "dependencies": {
     "@marko-tags/context": "^2.2.2",
     "@marko/express": "^1.0.0",
+    "@popperjs/core": "^2.11.6",
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
